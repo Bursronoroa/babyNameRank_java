@@ -2,6 +2,8 @@
 
 #  Baby Name Ranking Java Program
 
+![](10.jpg) 
+
 **Technology used**
 
 - Intellij
