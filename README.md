@@ -13,10 +13,6 @@
 
 Describe the problem. Answer all the following in your own words. No coding statements. 
 
-•	State the problem to be solved.
-•	List all inputs that are required and where are they coming from.
-•	Discuss any restrictions to the inputs, (you are not required to code restrictions or validate inputs for this assignment).
-•	List all outputs and or expected result formats. 
 
 **Problem**
 
@@ -34,7 +30,9 @@ After inputting the year you want to search a name, the program ask for gender o
 
 Create either a flowchart or pseudocode to outline all steps in solving the problem. Use Visio if you are creating a flowchart. You can export it as an image file to include it in your submission. Also, paste the image file in the space provided below.
  
-![](001.png) 
+![](1.jpg)
+
+![](2.jpg)
 
 **Code/Implementation**:
 
@@ -128,11 +126,7 @@ Create either a flowchart or pseudocode to outline all steps in solving the prob
 
 Describe your testing process. 
 
-•	What test cases did you use, and how were the results verified? 
-•	What errors did you come across and what did you do to fix them? 
-
-Include screenshots of your tests you ran to verify your results. Screenshots must show both code and output.
-
+![](3.jpg)
 
 
 
