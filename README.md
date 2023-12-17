@@ -32,7 +32,7 @@ After inputting the year you want to search a name, the program ask for gender o
 
 Create either a flowchart or pseudocode to outline all steps in solving the problem. Use Visio if you are creating a flowchart. You can export it as an image file to include it in your submission. Also, paste the image file in the space provided below.
  
- 
+![](001.png) 
 
 **Code/Implementation**:
 
